@@ -13,6 +13,6 @@ You can run this project directly in your browser without installing anything:
 
 ## 💻 Local Installation
 If you want to run it on your machine:
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/AI-Sentiment-Analyzer.git`
+1. Clone the repo:https://github.com/alishba1299/AI-Sentiment-Analyzer
 2. Install requirements: `pip install textblob`
 3. Run: `python main.py`
